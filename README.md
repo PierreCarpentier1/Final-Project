@@ -6,4 +6,4 @@ This project is mainly consisting of multiple databases, I have sepcified at the
 read_excel("~/Final Project/(Chart) Emissions by sector (1).xlsx", 
                                              sheet = "Arranged version ", col_types = c("text", 
                                                                                         "numeric", "text", "numeric"))
-here, just change  "~/Final Project/(Chart)" to whatever location you've put the file in.
+here, just change  ""~/Final Project/(Chart) Emissions by sector (1).xlsx" to whatever location you've put the file in and specify the correct name for the file.
